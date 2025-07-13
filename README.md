@@ -95,7 +95,7 @@ The data analysis process was conducted using the following tools:
 
 ![Price Outlier cleaned Box Chart](charts/data%20distribution/price_boxplot_cleaned.png)
 
-![Price cleaned hist Chart](charts/data%20distribution/price_boxplot_cleaned.png)
+![Price cleaned hist Chart](charts/data%20distribution/total_price_log_hist.png)
 
 #### 🚨 Crime Data:
 - For each borough, compared crime count by year.
