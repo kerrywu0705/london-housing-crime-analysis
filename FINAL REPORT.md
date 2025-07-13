@@ -103,7 +103,7 @@ Finally, **Richmond upon Thames** deserves particular attention: in 2024, **all 
 
 ![Filter Borough Property Type Pie Chart](charts/question05/pie_distrubute.png)
 
-![Filter Borough Property Type Price(y) & Crime Growth(y-1) Rate Bar Chart](charts/question05/Price Growth & Avg Growth by Property Type.png)
+![Filter Borough Property Type Price(y) & Crime Growth(y-1) Rate Bar Chart](charts/question05/price_growth&transaction.png)
 
 ---
 

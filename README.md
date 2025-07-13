@@ -93,6 +93,10 @@ The data analysis process was conducted using the following tools:
 - Applied **IQR filtering** (`Q1 - 1.5*IQR`, `Q3 + 1.5*IQR`) to remove borough-level price outliers.
 - Final log-transformed price distribution showed close alignment between mean and median, confirming successful outlier handling.
 
+![Price Outlier cleaned Box Chart](charts/question01/price_boxplot_cleaned.png)
+
+![Price cleaned hist Chart](charts/question01/total_price_log_hist.png)
+
 #### 🚨 Crime Data:
 - For each borough, compared crime count by year.
 - Flagged and removed cases where **any single year’s crime count exceeded the previous year by more than 3×**.
