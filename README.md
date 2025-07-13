@@ -138,29 +138,27 @@ Our analysis highlights that **post-pandemic behavioural shifts and safety trend
 
 ### 1. Borough-Level Correlation Between Price and Crime Growth (2020–2024)
 
-![Correlation Chart](charts/price&crime_growth_corr.png)
-
 This horizontal bar chart displays the correlation between **property price growth (year y)** and **crime growth in the previous year (y-1)** across all London boroughs.  
+
+![Correlation Chart](charts/question02/price&crime_growth_corr.png)
 
 ---
 
 ### 2. Total Transaction Volume by Borough (2020–2024)
 
-![Transaction Bar Chart](charts/transaction_amount_bar.png)
-
 This bar chart illustrates the **total number of property transactions** per borough over the 5-year period.
 
+![Transaction Bar Chart](charts/question03/transaction_amount_bar.png)
 
 ---
 
 ### 3. Median Property Price Trends for Selected Boroughs (2020–2024)
 
-![Price Trend Line Chart](charts/good_trend_borough_line.png)
-
 This line chart tracks the **annual median property price** for selected boroughs, with **London-wide median** as a reference.
 
+![Price Trend Line Chart](charts/question04/good_trend_borough_line.png)
 
-
+---
 
 ## 🚀 Future Work
 
