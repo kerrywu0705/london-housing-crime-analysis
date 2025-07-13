@@ -10,6 +10,8 @@ At the same time, **average annual crime rates have increased across most boroug
 
 **Together, these trends point to a structural rebalancing of London’s urban landscape**, where **value and safety are gradually decentralizing** from the urban core. This reinforces the **investment and lifestyle potential** of select outer boroughs as they continue to gain traction.
 
+![Property Price(y) & Crime Growth(y-1) Rate bar Chart](charts/question01/property_vs_crime_avg_growth_bar_sns.png)
+
 ---
 
 ### ❓ Question 2: What is the correlation between the trend in crime rate changes and property price fluctuations across London’s boroughs?
@@ -21,6 +23,8 @@ Additional boroughs like **Haringey, Hounslow, Merton, and Havering** also show 
 Conversely, boroughs like **Southwark and Barking & Dagenham**, where **crime growth outpaces housing price gains**, may require **further investigation** to understand **underlying risk factors**.
 
 While **Hillingdon** does not show a strong correlation, the **divergence between its crime and property trends** suggests it **remains a borough worth monitoring**.
+
+![Borough Price(y) & Crime Growth(y-1) Rate Correlation Bar Chart](charts/question02/price&crime_growth_corr.png)
 
 ---
 
@@ -39,6 +43,12 @@ Certain exceptions are also worth noting:
 - **Hounslow’s gradual price deceleration** may be influenced by **rising crime rates** in recent years or a **natural plateau** following a period of growth, positioning it as a **stabilized, affordable borough**.
 
 **In conclusion**, several **key boroughs within London’s low-crime areas offer a rare blend of safety, transaction vitality, and growth potential**. These areas are **particularly valuable for developers, homebuyers, and investors** seeking a **balanced mix of affordability, livability, and long-term return**.
+
+![Transaction Bar Chart](charts/question03/transaction_amount_bar.png)
+
+![Borough Price Line Chart vs London Median (Low)](charts/question03/low_crime_borough_yearly_median_line.png)
+
+![Borough Price Line Chart vs London Median (High)](charts/question03/high_crime_borough_yearly_median_line.png)
 
 ---
 
@@ -68,6 +78,10 @@ It is well-suited for **buyers prioritizing green surroundings and high living s
 - **Richmond upon Thames**: **Premium location with strong market support** — best suited for quality living or long-term asset planning.  
 - **Merton**: **Recently cooled after peak growth** — requires further observation to assess future resilience.
 
+![High Negative Correlation 12 Boroughs Bar Chart](charts/question04/yearly_growth_splitbar.png)
+
+![Filter Borough Price Median Line Chart](charts/question04/good_trend_borough_line.png)
+
 ---
 
 ### ❓ Question 5: Among these areas, which types of properties (detached, semi-detached, terraced, flats, etc.) demonstrate stronger resilience to fluctuations in crime rates while maintaining healthy transaction activity?
@@ -86,6 +100,10 @@ This may indicate:
 Finally, **Richmond upon Thames** deserves particular attention: in 2024, **all major housing types experienced price declines**, suggesting the **influence of external pressures or policy changes**. Still, the **strong showing of flats and semi-detached houses in 2023** hints that these segments **may remain strategically relevant** if market conditions stabilise.
 
 **Overall, the findings highlight the need to tailor property strategies by borough and housing type**, with a focus on **resilient segments such as terraced and semi-detached homes** in boroughs showing market durability.
+
+![Filter Borough Property Type Pie Chart](charts/question05/pie_distrubute.png)
+
+![Filter Borough Property Type Price(y) & Crime Growth(y-1) Rate Bar Chart](charts/question05/Price Growth & Avg Growth by Property Type.png)
 
 ---
 
