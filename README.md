@@ -1,4 +1,4 @@
-# 🏙️ A Multidimensional Analysis of Housing Prices and Crime Rates  
+# 🏙️ A Multidimensional Analysis of Housing Prices and Crime Growths
 ## Enhancing Transparency and Decision-Making in the London Real Estate Market
 
 ---
