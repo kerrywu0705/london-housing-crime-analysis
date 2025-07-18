@@ -164,6 +164,13 @@ This line chart tracks the **annual median property price** for selected borough
 
 ---
 
+## 📊 Interactive Dashboard
+
+You can view the interactive Tableau dashboard here:  
+👉 [View on Tableau Public](https://public.tableau.com/views/your-dashboard-link)
+
+---
+
 ## 🚀 Future Work
 
 Future Opportunities for Expansion
