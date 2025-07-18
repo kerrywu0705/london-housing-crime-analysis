@@ -107,6 +107,13 @@ Finally, **Richmond upon Thames** deserves particular attention: in 2024, **all 
 
 ---
 
+## 📊 Interactive Dashboard
+
+You can view the interactive Tableau dashboard here:  
+👉 [View on Tableau Public](https://public.tableau.com/views/your-dashboard-link)
+
+---
+
 ### 🧾 Final Insights & Future Directions
 
 This project demonstrates how **combining multi-year property price data with borough-level crime statistics** can provide a **richer, more actionable understanding of London’s real estate landscape**.  
