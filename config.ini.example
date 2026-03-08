@@ -1,0 +1,15 @@
+[mysql]
+host = 127.0.0.1
+port = 3306
+user = root
+password = your_password_here
+database = london_property
+
+[paths]
+property_price_dir = C:\Users\kerry\Desktop\london_property\property_price
+property_price_filtered_dir = C:\Users\kerry\Desktop\london_property\property_price_filtered
+property_rent_dir = C:\Users\kerry\Desktop\london_property\property_rent
+property_rent_filtered_dir = C:\Users\kerry\Desktop\london_property\property_rent_filtered
+lookup_table_dir = C:\Users\kerry\Desktop\london_property\lookup_table
+tableau_output_dir = C:\Users\kerry\Desktop\london_property\tableau_output
+images_output_dir = C:\Users\kerry\Desktop\london_property\images_output
