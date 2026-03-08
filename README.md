@@ -1,4 +1,4 @@
-# London Property Market Analysis 2019-2024
+# London Property Market Analysis 2019-2024 (Continuously Updated)
 
 A comprehensive data pipeline and visualisation project analysing London's property prices and rental market across 32 boroughs (2019-2024). Built with Python for data processing and Tableau Public for interactive dashboards.
 
