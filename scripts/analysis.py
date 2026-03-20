@@ -740,11 +740,12 @@ def calculate_affordability(yield_data):
     # Price to rent ratio (years of rent to buy)
     afford['price_to_rent_years'] = (afford['price_median'] / afford['annual_rent']).round(1)
 
-    # Estimated monthly mortgage (30-year term, 5% interest rate)
-    rate = 0.05 / 12
+    # Estimated monthly mortgage (30-year term, 4.5% interest rate, 75% LTV)
+    rate = 0.045 / 12
     n_payments = 30 * 12
+    ltv = 0.75
     afford['monthly_mortgage_est'] = (
-        afford['price_median'] * (rate * (1 + rate)**n_payments) / ((1 + rate)**n_payments - 1)
+        afford['price_median'] * ltv * (rate * (1 + rate)**n_payments) / ((1 + rate)**n_payments - 1)
     ).round(0)
 
     # Rent vs mortgage ratio
